@@ -1,2 +1,3 @@
-# node-typscript-template
+# node-typescript-template
+
 TypeScript starter for server-side node.js libraries
