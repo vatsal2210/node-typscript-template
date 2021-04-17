@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-typscript-template",
+  "name": "nodejs-typescript-template",
   "version": "1.0.0",
   "description": "TypeScript starter for server-side Node.js libraries",
   "main": "dist/index.js",
